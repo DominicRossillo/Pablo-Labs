@@ -1,0 +1,12 @@
+Functions that are accepted
+1. Print ( 0+1+2 )
+2.  X = “ have a nice day “
+3. Var y
+4 *-DFA’s are super fun -*
+5 *-I want to us the – all day in comments because I can-* print ( a ) *-these comments don’t relate to the print statement but they can go before and after-* print ( “  hello world “ ) *- I can even have multiple statements with one after the other-*
+Functions that are rejected 
+1. Print ( 0+2-1)
+2. Zx = “that is not how an assignment statement is done”
+3. *- Can I do a -* comment like this*
+4. Print(“I forgot my spaces oh darn”)
+5. *- Somethings can look right but actually are not” print ( “for instance”) x = “but if you forget a close parenthesis it will end in a non accepting state 
