@@ -1,0 +1,34 @@
+95 pts
+
+Neat DFA diagram in a .pdf
+- ok
+State-transition table
+- ok
+Descriptions of each state
+- ok
+5 test cases accepted by the DFA
+- not in separate files
+5 test cases rejected by the DFA 
+- not in separate files
+
+Analysis
+- Good quality of DFA diagram
+- Good state descriptions
+- Good and efficient construction of the DFA
+
+Completeness 
+- Test cases are not difficult or interesting
+- Includes both correct and incorrect statements
+- Includes both correct and incorrect asignments
+- Includes both correct and incorrect identifiers
+
+Correctness
+- DFA diagram is correct
+- Tables are correct
+- Test cases are incorrect:
+  > your alphabet does not accept any capital letters... why do you have lots
+    of upper case letters in your test cases?
+
+
+
+- Dr. Rivas
