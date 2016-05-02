@@ -1,0 +1,7 @@
+*-mixed test cases that pass-*
+print ( " test will fail " ) var a a = " cats are blue " *- we can do all the colors cool but it doesnt pass-* 
+
+var a a= " i can write a whole essay in here but i wont cause that would take a bit to write " print ( a ) *-i can just right the whole essay here instead-*
+
+print ( " i want to make a lot of variables for you " ) var a var b var c *- a b c are my variables-*
+

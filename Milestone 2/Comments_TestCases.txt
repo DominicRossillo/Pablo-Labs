@@ -1,0 +1,14 @@
+*- test cases for comments -*
+*- comments are-great -*
+
+print ( " we need more comments " ) *- so here they are -*
+
+*- what is your favorite animal -* print ( " i like turtles " ) *-that is nice-*
+
+*- fail test cases for comments -*
+
+a = *- comments can not go here silly -" 1
+
+*- comments are great ^_^ -*
+
+*- this ä is not in the alphabet -"

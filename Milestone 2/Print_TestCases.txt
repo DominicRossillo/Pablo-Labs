@@ -1,0 +1,12 @@
+*- test cases for print statements -*
+print ( " i love writing test cases " )
+
+print ( " typing is so fun to right " )
+
+print ( 1+9+0+6 )
+
+print ( a )
+
+print ( 1+9+0+6 )
+
+print ( 2+" weeks till summer " )

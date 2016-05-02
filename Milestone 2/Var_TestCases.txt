@@ -1,0 +1,18 @@
+*- pass var cases -*
+var a
+
+a = " the nice weather is lovely "
+
+b = 1+2+3+4+5+6+9
+
+c = a
+
+*- failed var cases -*
+
+var ab
+
+a = ab
+
+b = 1+12+23+34+5+16+9
+
+c = abc

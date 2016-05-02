@@ -1,0 +1,9 @@
+*-mixed test cases that fail-*
+
+var a var b var c print a b c *- i cant print all of that -*
+
+var 2 *- i cant make two a var since its a number and not a letter -*
+
+print ( " time for some errors ) *- oops forgot a quote  -*
+
+print " why cant i write " print (" because you forgot your parenthesis ") var q q = " oh how silly of me " print ( " look ma i am writing " ) 
