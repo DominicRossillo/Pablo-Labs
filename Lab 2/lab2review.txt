@@ -1,12 +1,8 @@
-6 pts
+8 pts
 
 Correctness:
 
-- The program produces incorrect output. For the following acceptable solution,
-  your program simply displays a blank window and nothing else (no buttons):
---
-$ java driverDFA gncgwng  
---
+- Program has correct output :)
 
 
 Style:
@@ -24,16 +20,7 @@ Style:
 
 Efficiency and Other Comments:
 
-- Program is very inefficient as implemented. You were not asked to do any
-  sophisticated programming, but just a simple command line input/output thing.
-
-- Your program is supposed to run by taking input as an argument in command
-  line, as follows (from the handout):
---
-$ java driverDFA gncgwng 
---
-  but your program is opening a blank window, which is not what you were asked to
-  do in the handout.
+- Efficient as implemented :)
 
 
 CSV files:
